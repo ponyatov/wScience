@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Tue Sep 13 15:41:12 GST 2016
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=
+mainTexFile=wScience.tex
+outputFile=wScience.pdf
+langSpell=
+markDer=true
+srcDir=
